@@ -3,7 +3,9 @@
 A web application that displays a **realistic, rotatable 3D shoe model** using **React** and **Three.js** via the `@react-three/fiber` and `@react-three/drei` libraries. Built to showcase interactive 3D content directly in the browser.
 
 ## 🔗 Live Demo
-👉 [View Live on Vercel](https://shoe-3-d-viewer-nyru7idpi-lahari779783s-projects.vercel.app/)
+
+👉 [Click here to view the 3D Shoe Viewer](https://shoe-3-d-viewer-git-main-lahari779783s-projects.vercel.app)
+
 
 ---
 
