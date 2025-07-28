@@ -6,6 +6,9 @@ A web application that displays a **realistic, rotatable 3D shoe model** using *
 
 👉 [Click here to view the 3D Shoe Viewer](https://shoe-3-d-viewer-git-main-lahari779783s-projects.vercel.app)
 
+## 📸 Preview
+
+![3D Shoe Preview](https://shoe-3-d-viewer-git-main-lahari779783s-projects.vercel.app/preview.png)  
 
 ---
 
